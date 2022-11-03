@@ -2,6 +2,7 @@
 
 2. Run `nix develop`
 
+3. Run `cargo init`
 
 
 
